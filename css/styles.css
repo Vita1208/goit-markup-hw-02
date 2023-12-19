@@ -1,12 +1,12 @@
 body{
     font-family: "Roboto", sans-serif;
-    color: #FFFFFF;
+    color: #434455;
     font-weight: 400;
-    background-color: #FFF;
+    background-color: #FFFFFF;
     font-style: normal;
 }
-.header-logo{
-color:#2E2F42;;
+.header-logo {
+    color: #4D5AE5;
     font-family: Raleway;
     font-size: 18px;
     font-weight: 700;
@@ -14,15 +14,16 @@ color:#2E2F42;;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
-.header-logo-web{
-    color: #4D5AE5;
-        font-family: Raleway;
-        font-size: 18px;
-        font-weight: 700;
-        line-height: 1.16;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
+.header-logo-studio{
+color:#2E2F42;;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
+
 .header-list-item{
     color:  #2e2f42;
         font-size: 16px;
@@ -33,17 +34,19 @@ color:#2E2F42;;
 .list-address-mail{
 color: #434455;
     font-size: 16px;
+    font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
 .list-address-tel{
     color: #434455;
      font-size: 16px;
+    font-style: normal;
      line-height: 1.5;
      letter-spacing: 0.02em;
 }
 .section-text{
-    color:  #FFF;
+    background-color: #2e2f42;
     text-align: center;
     font-size: 56px;
     font-weight: 700;
@@ -51,7 +54,8 @@ color: #434455;
     letter-spacing: 0.02em; 
 }
  .button{
-    color: #FFF;
+    background-color: #4D5AE5;
+        font-family: "Roboto", sans-serif;
         font-size: 16px;
         font-weight: 500;
         line-height: 1.5;
@@ -186,82 +190,82 @@ color: #434455;
         font-size: 36px;
         font-weight: 700;
         line-height: 1.11;
-        letter-spacing: 0.02em;
+        letter-spacing:0.02em;
         text-transform: capitalize;
 }
-.section-banking{
+.banking{
     color: #2E2F42;
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
         letter-spacing: 0.02em;
 }
-.section-banking-app{
+.banking-app{
     color: #434455;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
-.section-cashless-payment{
+.cashless-payment{
     color: #2E2F42;
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
         letter-spacing: 0.02em;
 }
-.section-payment-marketing{
+.payment-marketing{
     color: #434455;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
-.section-meditation{
+.meditation{
     color: #2E2F42;
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
         letter-spacing: 0.02em;
 }
-.section-meditation-app{
+.meditation-app{
     color: #434455;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
-.section-taxiservice{
+.taxiservice{
     color: #2E2F42;
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
         letter-spacing: 0.02em;
 }
-.section-taxiservice-marketing{
+.taxiservice-marketing{
     color: #434455;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
-.section-illustrations{
+.illustrations{
 color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
-.section-design{
+.design{
 color: #434455;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.section-courses{
+.courses{
     color: #2E2F42;
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
         letter-spacing: 0.02em;
 }
-.section-courses-marketing{
+.courses-marketing{
     color:  #434455;
         font-size: 16px;
         line-height: 1.5;
@@ -269,27 +273,28 @@ color: #434455;
 }
 .footer-logo{
     color: #F4F4FD;
-        font-family: Raleway;
+        background-color: #2e2f42;
+        font-family: "Raleway", sans-serif;
         font-size: 18px;
         font-weight: 700;
-        line-height: 1.16;
-        letter-spacing: 0.02em;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
         text-transform: uppercase;
 }
-.footer-logo-web{
+.footer-logo{
     color: #4D5AE5;
         font-family: Raleway;
         font-size: 18px;
         font-weight: 700;
-        line-height: 1.16;
+        line-height: 1.17;
         letter-spacing: 0.02em;
         text-transform: uppercase;
 }
-.footer-text{
+.footer-logo-studio{
     color: #F4F4FD;
         font-size: 16px;
         line-height: 1.5;
-        letter-spacing: 0.02;
+        letter-spacing: 0.02em;
 }
 
 
